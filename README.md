@@ -1,41 +1,39 @@
-<!-- ===================================================== -->
-<!-- 🚀 CYBERPUNK • NEON • FUTURISTIC • LUXURY • 3D HERO  -->
-<!-- ===================================================== -->
+<!-- ========================= -->
+<!-- 🚀 FUTURISTIC NEON HERO  -->
+<!-- ========================= -->
 
-<!-- CYBERPUNK NEON GLITCH BANNER -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&width=900&height=200" />
+  <!-- Cyberpunk Neon Banner -->
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=LASIRU%20MINRUK&type=glitch&width=800&height=200" />
 </p>
 
-<!-- 3D FLOATING NEON-GOLD PROFILE IMAGE -->
+<!-- 3D Floating Neon Profile Image -->
 <p align="center">
   <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
     <img src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
          alt="Lasiru Portfolio"
-         width="600"
+         width="520"
          style="
-            border-radius: 35px;
-            box-shadow:
-               0 0 45px rgba(0,255,255,0.9),
-               0 0 35px rgba(255,0,255,0.7),
-               0 0 25px rgba(255,215,0,0.7),
-               0 0 10px rgba(255,215,0,0.6);
-            transform: perspective(1000px) rotateX(6deg) rotateY(-6deg);
+            border-radius: 30px;
+            box-shadow: 0px 0px 50px rgba(0, 255, 255, 0.8), 
+                        0px 0px 25px rgba(255, 0, 255, 0.6),
+                        0px 0px 15px rgba(255, 215, 0, 0.5);
+            transform: perspective(900px) rotateX(4deg) rotateY(-4deg);
             transition: 0.4s ease-in-out;
          "
     />
   </a>
 </p>
 
-<!-- ANIMATED NEON-GOLD FRAME -->
+<!-- Animated Gold/Neon Frame -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kamona-WD/animated-border-radius/main/border.svg"
-       width="650" />
+       width="540" />
 </p>
 
-<!-- NEON TYPING ANIMATION -->
+<!-- Neon Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3200&color=00F0FF&center=true&vCenter=true&width=700&lines=Futuristic+Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Engineer;Neon+Cyberpunk+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3200&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Developer;Futuristic+Mindset+%7C+Modern+Tech;Full-Stack+%7C+Cloud+%7C+DevOps" />
 </h1>
 
 <p align="center">
@@ -49,28 +47,28 @@
 
 # 🏆 **Luxury Cyberpunk Trophy Wall**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=dracula&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 # 🚀 **What I Build**
-- ⚡ Futuristic **Smart Healthcare System** (AI triage + Telehealth + Payments)  
-- 🔥 **Spring Boot Microservices** (distributed + scalable)  
-- ⚙️ Cloud-native **Kubernetes + CI/CD automation**  
-- 🧠 DevOps, observability, scalability patterns  
-- 🤝 Open to backend, cloud, microservice architecture collabs  
+- ⚡ Futuristic **Smart Healthcare System** (AI + Telehealth + Payments)
+- 🔥 **Spring Boot microservices** with distributed architecture
+- ⚙️ **Kubernetes deployments & CI/CD automations**
+- 🤝 Collaborating on backend, cloud & DevOps projects
+- 🧪 Exploring resilience patterns & cloud scaling
 
 ---
 
-# 🛠 **Tech Stack**
+# 🛠️ **Tech Stack Arsenal**
 <p align="center">
 
 ### 💻 Backend  
-Node.js • Express.js • Spring Boot • Java • Python  
+Node.js • Express • Spring Boot • Java • Python  
 
 ### 🎨 Frontend  
-React • TypeScript • Tailwind CSS  
+React • TypeScript • Tailwind  
 
 ### 🗄 Databases  
 MongoDB • MySQL • Oracle  
@@ -104,7 +102,7 @@ Docker • Git • Postman • Figma
 # 🌐 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/lasiru-minruk">
-    <img src="https://img.shields.io/badge/LinkedIn-0266C8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lasiru2225@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -119,13 +117,13 @@ Docker • Git • Postman • Figma
 
 ---
 
-# ⚡ **Fun Fact**
-> 🎧 *“Bugs disappear with bass-heavy synthwave + neon energy.”*
+# ⚡ Fun Fact  
+> 🎧 *“Most bugs disappear after snacks + synthwave.”*
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <i>✨ Neon • Futuristic • Cyberpunk • Minimal • Gold • 3D Floating Style ✨</i>
+  <i>✨ Neon • Cyberpunk • Futuristic • Golden • Minimalist ✨</i>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
