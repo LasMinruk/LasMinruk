@@ -35,7 +35,8 @@
 </p>
 
 ---
-<!-- 🏆 GitHub Trophy Wall -->
+
+<!-- 🏆 Trophy Wall -->
 ## 🏆 GitHub Trophy Wall  
 <p align="center">
   <img 
@@ -44,11 +45,7 @@
   />
 </p>
 
-
-
 ---
-
-
 
 <!-- 🚀 Working On -->
 ## 🚀 What I'm Building  
