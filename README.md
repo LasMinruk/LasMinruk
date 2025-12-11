@@ -1,10 +1,8 @@
 <!-- 🔥 MODERN GLASS + NEON PORTFOLIO HERO -->
 <p align="center">
 
-  <!-- Glitch Banner -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&text2=PORTFOLIO&width=950&height=200" />
-
-  <!-- Portfolio Image (BIG + Floating Glow) -->
+ 
+    <!-- Portfolio Image (BIG + Floating Glow) -->
   <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
     <img
       src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
@@ -18,6 +16,12 @@
       "
     />
   </a>
+  
+  
+  <!-- Glitch Banner -->
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&text2=PORTFOLIO&width=950&height=200" />
+
+
 
   <!-- Animated Neon Frame -->
   <img src="https://raw.githubusercontent.com/Kamona-WD/animated-border-radius/main/border.svg"
