@@ -1,14 +1,12 @@
 <!-- 🔥 BIG Portfolio Image + Animated Neon Frame -->
 <p align="center">
-  <!-- Animated banner above image -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&text2=PORTFOLIO"
-       width="900" />
+
 
   <!-- Main clickable portfolio image -->
   <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
     <img src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
          alt="Lasiru Portfolio"
-         width="520"
+         width="900"
          style="
             border-radius: 25px;
             box-shadow: 0 0 35px rgba(0, 200, 255, 0.7);
@@ -16,6 +14,9 @@
          "
     />
   </a>
+    <!-- Animated banner above image -->
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&text2=PORTFOLIO"
+       width="200" />
 
   <!-- Animated neon frame under the image -->
   <br/>
