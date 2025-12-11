@@ -1,40 +1,35 @@
-<!-- ========================= -->
-<!-- 🚀 FUTURISTIC NEON HERO  -->
-<!-- ========================= -->
+<!-- 🔥 BIG Portfolio Image + Animated Neon Frame -->
+<p align="center">
+  <!-- Animated banner above image -->
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&text2=PORTFOLIO"
+       width="900" />
 
-
-
-<!-- 3D Floating Neon Profile Image -->
-<p align="center">https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h
+  <!-- Main clickable portfolio image -->
   <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
     <img src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
          alt="Lasiru Portfolio"
          width="520"
          style="
-            border-radius: 30px;
-            box-shadow: 0px 0px 50px rgba(0, 255, 255, 0.8), 
-                        0px 0px 25px rgba(255, 0, 255, 0.6),
-                        0px 0px 15px rgba(255, 215, 0, 0.5);
-            transform: perspective(900px) rotateX(4deg) rotateY(-4deg);
-            transition: 0.4s ease-in-out;
+            border-radius: 25px;
+            box-shadow: 0 0 35px rgba(0, 200, 255, 0.7);
+            margin-top: -20px;
          "
     />
   </a>
-</p>
 
-<!-- Animated Gold/Neon Frame -->
-<p align="center">
+  <!-- Animated neon frame under the image -->
+  <br/>
   <img src="https://raw.githubusercontent.com/Kamona-WD/animated-border-radius/main/border.svg"
        width="540" />
 </p>
 
-<!-- Neon Typing Header -->
+<!-- Header Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3200&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Developer;Futuristic+Mindset+%7C+Modern+Tech;Full-Stack+%7C+Cloud+%7C+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00C2FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=00E5FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=00C2FF&style=flat" />
   <a href="https://github.com/LasMinruk?tab=followers">
     <img src="https://img.shields.io/github/followers/LasMinruk?label=Followers&style=social" />
   </a>
@@ -42,27 +37,26 @@
 
 ---
 
-# 🏆 **Luxury Cyberpunk Trophy Wall**
+## 🏆 GitHub Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🚀 **What I Build**
-- ⚡ Futuristic **Smart Healthcare System** (AI + Telehealth + Payments)
-- 🔥 **Spring Boot microservices** with distributed architecture
-- ⚙️ **Kubernetes deployments & CI/CD automations**
-- 🤝 Collaborating on backend, cloud & DevOps projects
-- 🧪 Exploring resilience patterns & cloud scaling
+## 🚀 What I'm Working On
+- 🤖 Smart Healthcare Management System — AI triage, telehealth & Stripe payments  
+- 🧩 Building scalable **Spring Boot microservices**  
+- 🚀 Strengthening **Kubernetes + CI/CD pipelines**  
+- 🤝 Open to collaborations in **backend, cloud, distributed systems**  
+- 🧠 Exploring DevOps scalability, cloud-native patterns  
 
 ---
 
-# 🛠️ **Tech Stack Arsenal**
-<p align="center">
+## 🛠 Tech Stack
 
-### 💻 Backend  
-Node.js • Express • Spring Boot • Java • Python  
+### 🔧 Backend
+Node.js • Express.js • Spring Boot • Java • Python  
 
 ### 🎨 Frontend  
 React • TypeScript • Tailwind  
@@ -70,14 +64,12 @@ React • TypeScript • Tailwind
 ### 🗄 Databases  
 MongoDB • MySQL • Oracle  
 
-### ⚙ DevOps  
+### ⚙ DevOps / Tools  
 Docker • Git • Postman • Figma  
-
-</p>
 
 ---
 
-# 📊 **Neon Analytics Dashboard**
+## 📊 GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LasMinruk&theme=tokyonight&hide_border=true" />
@@ -89,38 +81,38 @@ Docker • Git • Postman • Figma
 
 ---
 
-# 🐍 **Cyberpunk Snake Animation**
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🌐 **Connect With Me**
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/lasiru-minruk">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lasiru2225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://my-portfolio-hy4e.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://my-portfolio-hy4e.vercel.app/cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact  
-> 🎧 *“Most bugs disappear after snacks + synthwave.”*
+## ⚡ Fun Fact
+> 💡 *“I debug with snacks + bass-heavy music. It works every time.”*
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <i>✨ Neon • Cyberpunk • Futuristic • Golden • Minimalist ✨</i>
+  <i>💻 Code • 🚀 Build • 🌱 Grow</i>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
