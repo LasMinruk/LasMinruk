@@ -77,17 +77,22 @@
 ## 📊 GitHub Analytics  
 <p align="center">
 
-  <!-- ⭐ FIXED — ALWAYS WORKING MIRROR -->
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LasMinruk&show_icons=true&theme=radical&hide_border=true" />
+  <!-- ⭐ GitHub Statistics Card -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LasMinruk&theme=tokyonight" />
 
-  <!-- ⭐ FIXED — OFFICIAL STREAK URL -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=LasMinruk&theme=radical&hide_border=true" />
+  <!-- ⭐ Repo Languages Card -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LasMinruk&theme=tokyonight" />
 
 </p>
 
 <p align="center">
-  <!-- ⭐ FIXED — TOP LANGUAGES MIRROR -->
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LasMinruk&layout=compact&theme=radical&hide_border=true" />
+
+  <!-- ⭐ Most Commit Languages -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LasMinruk&theme=tokyonight" />
+
+  <!-- ⭐ Productive Time -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LasMinruk&theme=tokyonight" />
+
 </p>
 
 ---
