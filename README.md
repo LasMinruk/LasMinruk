@@ -35,14 +35,20 @@
 </p>
 
 ---
-
-<!-- 🏆 Trophy Wall -->
+<!-- 🏆 GitHub Trophy Wall -->
 ## 🏆 GitHub Trophy Wall  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=onestar&margin-w=12&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=6" 
+    width="100%" 
+  />
 </p>
 
+
+
 ---
+
+
 
 <!-- 🚀 Working On -->
 ## 🚀 What I'm Building  
