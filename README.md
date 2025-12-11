@@ -1,32 +1,22 @@
 <!-- 🔥 MODERN GLASS + NEON PORTFOLIO HERO -->
 <p align="center">
 
- 
-    <!-- Portfolio Image (BIG + Floating Glow) -->
+  <!-- Portfolio Image (BIG + Floating Glow) -->
   <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
     <img
       src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
       alt="Lasiru Portfolio"
-      width="950"
+      width="960"
       style="
-        border-radius: 28px;
+        border-radius: 32px;
         margin-top: 10px;
-        filter: drop-shadow(0px 0px 35px #00eaffaa)
-                drop-shadow(0px 0px 65px #8b5cf6aa);
+        filter: drop-shadow(0px 0px 35px #00eaffcc)
+                drop-shadow(0px 0px 65px #8b5cf6cc)
+                drop-shadow(0px 0px 95px #FFD70055);
+        transition: 0.3s ease-in-out;
       "
     />
   </a>
-  
-  
-  <!-- Glitch Banner -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LASIRU%20MINRUK&text2=PORTFOLIO&width=950&height=200" />
-
-
-
-  <!-- Animated Neon Frame -->
-  <img src="https://raw.githubusercontent.com/Kamona-WD/animated-border-radius/main/border.svg"
-       width="600"
-       style="margin-top: -10px;" />
 
 </p>
 
@@ -34,7 +24,7 @@
 
 <!-- ✨ Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Crafting+Modern+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Crafting+Modern+Digital+Experiences" />
 </h1>
 
 <p align="center">
@@ -56,13 +46,13 @@
 
 <!-- 🚀 Working On -->
 ## 🚀 What I'm Building  
-> ⚡ *Focused on scalable systems, cloud-native engineering & future-ready software.*
+> ⚡ *Engineering scalable systems, cloud-native architectures & AI-powered solutions.*
 
-- 🤖 Smart Healthcare System (AI triage, telehealth, Stripe payments)  
-- 🧩 Distributed **Spring Boot** microservices  
-- 🚀 Kubernetes • Docker • CI/CD pipelines  
+- 🤖 Smart Healthcare System (**AI triage, telehealth, Stripe payments**)  
+- 🧩 Distributed **Spring Boot microservices**  
+- 🚀 **Kubernetes • Docker • CI/CD** automation  
 - 🤝 Open to backend / cloud / DevOps collaborations  
-- 🧠 Researching **microservice observability & resilience**  
+- 🔭 Exploring **microservice resilience & observability**  
 
 ---
 
@@ -78,8 +68,8 @@
 ### 🗄 **Databases**
 `MongoDB` • `MySQL` • `Oracle`
 
-### ⚙ **DevOps & Tools**
-`Docker` • `Kubernetes` • `GitHub Actions` • `Git` • `Postman` • `Figma`
+### ⚙ **DevOps & Cloud**
+`Docker` • `Kubernetes` • `GitHub Actions` • `Postman` • `Figma`
 
 ---
 
@@ -96,7 +86,7 @@
 
 ---
 
-<!-- 🐍 Snake -->
+<!-- 🐍 Snake Animation -->
 ## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -104,7 +94,7 @@
 
 ---
 
-<!-- 🌐 Social -->
+<!-- 🌐 Social Links -->
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/lasiru-minruk">
@@ -123,9 +113,9 @@
 
 ---
 
-<!-- ⚡ Fun -->
+<!-- ⚡ Fun Fact -->
 ## ⚡ Fun Fact  
-> 🎧 *I debug faster with neon lights + bass-heavy music. Productivity cheat code unlocked.*  
+> 🎧 *I debug 3× faster with neon lights and bass-heavy music — elite dev mode activated.*  
 
 ---
 
