@@ -2,10 +2,7 @@
 <!-- 🚀 FUTURISTIC NEON HERO  -->
 <!-- ========================= -->
 
-<p align="center">
-  <!-- Cyberpunk Neon Banner -->
-  <img src=">https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h" />
-</p>
+
 
 <!-- 3D Floating Neon Profile Image -->
 <p align="center">https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h
