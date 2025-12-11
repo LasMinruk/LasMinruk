@@ -24,7 +24,7 @@
 
 <!-- ✨ Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Crafting+Modern+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Crafting+Modern+Digital+Experiences" />
 </h1>
 
 <p align="center">
@@ -36,6 +36,7 @@
 
 ---
 
+<!-- 🏆 Trophy Wall -->
 ## 🏆 GitHub Trophy Wall  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=onestar&margin-w=12&no-frame=true&row=1&column=6" />
@@ -43,6 +44,7 @@
 
 ---
 
+<!-- 🚀 Working On -->
 ## 🚀 What I'm Building  
 > ⚡ *Engineering scalable systems, cloud-native architectures & AI-powered solutions.*
 
@@ -54,6 +56,7 @@
 
 ---
 
+<!-- 🛠 Tech Stack -->
 ## 🛠 Tech Stack (Modern Overview)
 
 ### 🔧 **Backend**
@@ -70,11 +73,11 @@
 
 ---
 
+<!-- 📊 GitHub Analytics -->
 ## 📊 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=radical&hide_border=true" />
-
-  <img width="48%" src="https://streak-stats.demolab.com/?user=LasMinruk&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LasMinruk&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -83,13 +86,15 @@
 
 ---
 
+<!-- 🐍 Snake Animation -->
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LasMinruk/LasMinruk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
+<!-- 🌐 Social Links -->
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/lasiru-minruk">
@@ -108,6 +113,7 @@
 
 ---
 
+<!-- ⚡ Fun Fact -->
 ## ⚡ Fun Fact  
 > 🎧 *I debug 3× faster with neon lights and bass-heavy music — elite dev mode activated.*  
 
