@@ -1,133 +1,97 @@
-<!-- 🌟 GLASSMORPHISM CARD PROFILE -->
-<div align="center">
+<!-- 🔥 MODERN GLASS + NEON PORTFOLIO HERO -->
+<p align="center">
 
-<!-- HERO IMAGE -->
-<a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
-       width="260"
-       style="border-radius: 20px;
-              margin-bottom: 15px;
-              filter: drop-shadow(0px 0px 12px #00eaffaa)
-                      drop-shadow(0px 0px 25px #8b5cf6aa);" />
-</a>
+  <!-- Portfolio Image (BIG + Floating Glow) -->
+  <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
+    <img
+      src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
+      alt="Lasiru Portfolio"
+      width="960"
+      style="
+        border-radius: 32px;
+        margin-top: 10px;
+        filter: drop-shadow(0px 0px 35px #00eaffcc)
+                drop-shadow(0px 0px 65px #8b5cf6cc)
+                drop-shadow(0px 0px 95px #FFD70055);
+        transition: 0.3s ease-in-out;
+      "
+    />
+  </a>
 
-<h1 style="font-size: 34px; font-weight: 800;">
-  🚀 Lasiru Minruk
-</h1>
-<p style="font-size: 18px; opacity: 0.85;">Software Engineering Undergraduate • Full-Stack Developer • DevOps Enthusiast</p>
-
-</div>
+</p>
 
 <br/>
 
-<!-- 🎴 ABOUT CARD -->
-<div align="center">
-  <div style="
-      width: 85%;
-      padding: 25px;
-      border-radius: 18px;
-      background: rgba(255,255,255,0.08);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-      backdrop-filter: blur(14px);
-      border: 1px solid rgba(255,255,255,0.15);
-      margin-bottom: 20px;">
-    
-  <h2>✨ About Me</h2>
-  <p>
-    I craft modern digital experiences using backend systems, cloud automation, 
-    and clean engineering principles. Passionate about scalable applications, 
-    microservices, and real-world problem solving.
-  </p>
-  </div>
-</div>
+<!-- ✨ Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Crafting+Modern+Digital+Experiences" />
+</h1>
 
-<!-- 🛠 TECH STACK CARD -->
-<div align="center">
-  <div style="
-      width: 85%;
-      padding: 25px;
-      border-radius: 18px;
-      background: rgba(255,255,255,0.08);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-      backdrop-filter: blur(14px);
-      border: 1px solid rgba(255,255,255,0.15);
-      margin-bottom: 20px;">
-      
-  <h2>🛠 Tech Stack</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=00E7FF&style=flat" />
+  <a href="https://github.com/LasMinruk?tab=followers">
+    <img src="https://img.shields.io/github/followers/LasMinruk?label=Followers&style=social" />
+  </a>
+</p>
 
-  <h4>Backend</h4>
-  <p>Node.js • Express.js • Spring Boot • Java • Python</p>
+---
 
-  <h4>Frontend</h4>
-  <p>React • Next.js • TypeScript • Tailwind CSS</p>
+## 🏆 GitHub Trophy Wall  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=onestar&margin-w=12&no-frame=true&row=1&column=6" />
+</p>
 
-  <h4>Databases</h4>
-  <p>MongoDB • MySQL • Oracle</p>
+---
 
-  <h4>Cloud & DevOps</h4>
-  <p>Docker • Kubernetes • GitHub Actions • Postman</p>
+## 🚀 What I'm Building  
+> ⚡ *Engineering scalable systems, cloud-native architectures & AI-powered solutions.*
 
-  </div>
-</div>
+- 🤖 Smart Healthcare System (**AI triage, telehealth, Stripe payments**)  
+- 🧩 Distributed **Spring Boot microservices**  
+- 🚀 **Kubernetes • Docker • CI/CD** automation  
+- 🤝 Open to backend / cloud / DevOps collaborations  
+- 🔭 Exploring **microservice resilience & observability**  
 
-<!-- 🚀 PROJECTS CARD -->
-<div align="center">
-  <div style="
-      width: 85%;
-      padding: 25px;
-      border-radius: 18px;
-      background: rgba(255,255,255,0.08);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-      backdrop-filter: blur(14px);
-      border: 1px solid rgba(255,255,255,0.15);
-      margin-bottom: 20px;">
-      
-  <h2>🚀 What I'm Building</h2>
+---
 
-  <p>🤖 AI-powered Smart Healthcare System</p>
-  <p>🧩 Distributed Spring Boot Microservices</p>
-  <p>🚀 CI/CD • Docker • Kubernetes Pipelines</p>
-  <p>🌐 API-driven scalable backend systems</p>
+## 🛠 Tech Stack (Modern Overview)
 
-  </div>
-</div>
+### 🔧 **Backend**
+`Node.js` • `Express.js` • `Spring Boot` • `Java` • `Python`
 
-<!-- 📊 ANALYTICS CARD -->
-<div align="center">
-  <div style="
-      width: 85%;
-      padding: 25px;
-      border-radius: 18px;
-      background: rgba(255,255,255,0.08);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-      backdrop-filter: blur(14px);
-      border: 1px solid rgba(255,255,255,0.15);
-      margin-bottom: 20px;">
-      
-  <h2>📊 GitHub Analytics</h2>
+### 🎨 **Frontend**
+`React` • `Next.js` • `TypeScript` • `Tailwind CSS`
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LasMinruk&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasMinruk&layout=compact&theme=tokyonight&hide_border=true" />
+### 🗄 **Databases**
+`MongoDB` • `MySQL` • `Oracle`
 
-  </div>
-</div>
+### ⚙ **DevOps & Cloud**
+`Docker` • `Kubernetes` • `GitHub Actions` • `Postman` • `Figma`
 
-<!-- 🌐 SOCIAL CARD -->
-<div align="center">
-  <div style="
-      width: 85%;
-      padding: 25px;
-      border-radius: 18px;
-      background: rgba(255,255,255,0.08);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-      backdrop-filter: blur(14px);
-      border: 1px solid rgba(255,255,255,0.15);
-      margin-bottom: 20px;">
+---
 
-  <h2>🌐 Connect With Me</h2>
+## 📊 GitHub Analytics  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=radical&hide_border=true" />
 
+  <img width="48%" src="https://streak-stats.demolab.com/?user=LasMinruk&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasMinruk&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LasMinruk/LasMinruk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
   <a href="https://linkedin.com/in/lasiru-minruk">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -135,16 +99,22 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://my-portfolio-hy4e.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-020202?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://my-portfolio-hy4e.vercel.app/cv.pdf">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+</p>
 
-  </div>
-</div>
+---
 
-<!-- ⚡ FOOTER -->
-<p align="center" style="opacity:0.7;">
-  ✨ Innovate • Build • Grow — Crafted by <b>Lasiru Minruk</b>
+## ⚡ Fun Fact  
+> 🎧 *I debug 3× faster with neon lights and bass-heavy music — elite dev mode activated.*  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <i>💻 Innovate • 🚀 Build • 🌱 Grow</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
