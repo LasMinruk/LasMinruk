@@ -76,12 +76,18 @@
 <!-- 📊 GitHub Analytics -->
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LasMinruk&theme=radical&hide_border=true" />
+
+  <!-- ⭐ FIXED — ALWAYS WORKING MIRROR -->
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LasMinruk&show_icons=true&theme=radical&hide_border=true" />
+
+  <!-- ⭐ FIXED — OFFICIAL STREAK URL -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=LasMinruk&theme=radical&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasMinruk&layout=compact&theme=radical&hide_border=true" />
+  <!-- ⭐ FIXED — TOP LANGUAGES MIRROR -->
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LasMinruk&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
