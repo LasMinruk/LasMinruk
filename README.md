@@ -4,11 +4,11 @@
 
 <p align="center">
   <!-- Cyberpunk Neon Banner -->
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=LASIRU%20MINRUK&type=glitch&width=800&height=200" />
+  <img src=">https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h" />
 </p>
 
 <!-- 3D Floating Neon Profile Image -->
-<p align="center">
+<p align="center">https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h
   <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
     <img src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h"
          alt="Lasiru Portfolio"
