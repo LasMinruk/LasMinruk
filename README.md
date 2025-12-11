@@ -1,10 +1,28 @@
-<!-- Top Animated Header -->
+<!-- Creative Clickable Portfolio Photo with 3D Hover Effect -->
+<p align="center">
+  <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1-HsSfNeZLTt2j0YxeWwgdS2Haboznn0h" 
+         alt="Lasiru Portfolio Photo" 
+         width="280" 
+         style="
+           border-radius: 20px;
+           box-shadow: 0 0 25px rgba(0, 150, 255, 0.5);
+           transition: transform 0.3s ease, box-shadow 0.3s ease;
+         "
+         onmouseover="this.style.transform='scale(1.05) rotate(1deg)'; this.style.boxShadow='0 0 35px rgba(0, 200, 255, 0.9)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0, 150, 255, 0.5)';"
+    />
+  </a>
+</p>
+
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Lasiru+Minruk;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
 </h1>
 
+<!-- Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=00C2FF&style=flat" />
   <a href="https://github.com/LasMinruk?tab=followers">
     <img src="https://img.shields.io/github/followers/LasMinruk?label=Followers&style=social" />
   </a>
@@ -12,38 +30,39 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+
 ## 🚀 **What I'm Working On**
-- 🔬 Building a **Smart Healthcare Management System** with AI triage, telehealth, and Stripe payments  
-- 🌱 Learning **Spring Boot Microservices**, **Kubernetes**, and **CI/CD automation**  
-- 🤝 Open to collaborations on **backend systems, REST APIs, and microservices**  
-- 🧠 Exploring **distributed systems and DevOps scalability practices**
+✨ **Smart Healthcare Management System** — AI triage, telehealth, Stripe payments  
+📘 Mastering **Spring Boot Microservices**, **K8s**, **CI/CD**  
+🤝 Open to collaborations in **backend architecture & distributed systems**  
+🧠 Diving deeper into **DevOps scalability & cloud automation**
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%" />
+</p>
+
 ## 🛠️ **Tech Stack**
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🚧 **Backend**
+Node.js • Express.js • Spring Boot • Java • Python  
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🎨 **Frontend**
+React • TypeScript • Tailwind  
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 🗄️ **Databases**
+MongoDB • MySQL • Oracle  
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠️ **DevOps / Tools**
+Docker • Git • Postman • Figma  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="80%" />
+</p>
 
 ---
 
@@ -51,9 +70,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LasMinruk&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
+  <br/><br/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasMinruk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -78,7 +95,7 @@
 ---
 
 ## ⚡ **Fun Fact**
-> 🍫 "I debug with snacks & music — because the best solutions happen between bites and beats."
+> 🧃 “I debug with snacks + music. Bugs fear sugar and bass.”
 
 ---
 
