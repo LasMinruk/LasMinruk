@@ -34,18 +34,7 @@
   </a>
 </p>
 
----
 
-<!-- 🏆 Trophy Wall -->
-## 🏆 GitHub Trophy Wall  
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy/202309/profile-trophy-dark.svg"
-    width="100%"
-  />
-</p>
-
----
 
 <!-- 🚀 Working On -->
 ## 🚀 What I'm Building  
