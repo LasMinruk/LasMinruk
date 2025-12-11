@@ -40,8 +40,8 @@
 ## 🏆 GitHub Trophy Wall  
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=LasMinruk&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=6" 
-    width="100%" 
+    src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy/202309/profile-trophy-dark.svg"
+    width="100%"
   />
 </p>
 
