@@ -1,58 +1,53 @@
-<!-- 3D Profile Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-056/Ajay-056/main/Assets/Developer.gif" width="250"/>
-</p>
-
+<!-- Top Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=00E0FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Lasiru+Minruk!;Software+Engineering+Undergraduate;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
 </h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=LasMinruk">
-    <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=LasMinruk&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views" />
+  <a href="https://github.com/LasMinruk?tab=followers">
+    <img src="https://img.shields.io/github/followers/LasMinruk?label=Followers&style=social" />
   </a>
 </p>
 
 ---
 
-# 🚀 **Portfolio**
-<p align="center">
-  <a href="https://my-portfolio-hy4e.vercel.app/" target="_blank">
-    <img src="[https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://media.licdn.com/dms/image/v2/D5622AQGv1Rd5wYyAyg/feedshare-shrink_1280/B56Zr6JIcvMEAs-/0/1765133289977?e=1767225600&v=beta&t=2n4nwaxeuMZGF-Uz21tUkzP3Muogz32Oupted5seAGM)" />
-  </a>
-</p>
-
-> ⭐ **My portfolio showcases all my featured projects, UI/UX case studies, backend systems, and certifications.**
+## 🚀 **What I'm Working On**
+- 🔬 Building a **Smart Healthcare Management System** with AI triage, telehealth, and Stripe payments  
+- 🌱 Learning **Spring Boot Microservices**, **Kubernetes**, and **CI/CD automation**  
+- 🤝 Open to collaborations on **backend systems, REST APIs, and microservices**  
+- 🧠 Exploring **distributed systems and DevOps scalability practices**
 
 ---
 
-# 🧩 **Featured Projects (Showcase Cards)**
+## 🛠️ **Tech Stack**
 
-<!-- Healthcare Management System -->
-<a href="https://my-portfolio-hy4e.vercel.app/projects/healthcare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LasMinruk&repo=smart-healthcare-system&theme=tokyonight&border_radius=12" />
-</a>
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Ecommerce Platform -->
-<a href="https://my-portfolio-hy4e.vercel.app/projects/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LasMinruk&repo=ecommerce-platform&theme=tokyonight&border_radius=12" />
-</a>
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<!-- Microservices Architecture -->
-<a href="https://my-portfolio-hy4e.vercel.app/projects/microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LasMinruk&repo=microservices-architecture&theme=tokyonight&border_radius=12" />
-</a>
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-# 🛠️ **Tech Stack**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,react,ts,tailwind,mongodb,mysql,oracle,docker,git,postman,figma&perline=8" />
-</p>
-
----
-
-# 📊 **GitHub Analytics**
+## 📊 **GitHub Analytics**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LasMinruk&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LasMinruk&theme=tokyonight&hide_border=true" />
@@ -64,27 +59,31 @@
 
 ---
 
-# 🌐 **Connect With Me**
+## 🌐 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/lasiru-minruk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lasiru2225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://my-portfolio-hy4e.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://my-portfolio-hy4e.vercel.app/cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
-> "I debug with snacks & music — best solutions happen between beats & bites."
+## ⚡ **Fun Fact**
+> 🍫 "I debug with snacks & music — because the best solutions happen between bites and beats."
+
+---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <i>💻 Code • 🚀 Build • 🌱 Grow</i>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
